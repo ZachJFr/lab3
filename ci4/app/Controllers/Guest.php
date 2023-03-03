@@ -14,7 +14,6 @@ class Guest extends BaseController
              . view('guest/index')
              . view('templates/footer');
     }
-}
 
 	public function create()
     {
@@ -58,3 +57,4 @@ class Guest extends BaseController
             . view('guest/success')
             . view('templates/footer');
     }
+}
