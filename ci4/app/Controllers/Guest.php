@@ -58,4 +58,3 @@ class Guest extends BaseController
             . view('guest/success')
             . view('templates/footer');
     }
-}
