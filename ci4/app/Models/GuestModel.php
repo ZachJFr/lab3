@@ -6,10 +6,10 @@ use CodeIgniter\Model;
 
 class GuestModel extends Model
 {
-    protected $table = "zafrancia_myguests";
+    protected $table = 'zafrancia_myguests';
 
-    public function getGuest()
-    {
+	 public function getGuest()
+    {     
         return $this->findAll();
     }
 }
