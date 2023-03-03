@@ -18,13 +18,13 @@
     <input type="input" name="website" value="<?= set_value('website') ?>">
     <br>
 
-    <label for="gender">Title</label>
-    <input type="input" name="gender" value="<?= set_value('gender') ?>">
-    <br>
-
     <label for="comment">Text</label>
     <textarea name="comment" cols="45" rows="4"><?= set_value('comment') ?></textarea>
     <br>
 
+    <label for="gender">Title</label>
+    <input type="input" name="gender" value="<?= set_value('gender') ?>">
+    <br>
+    
     <input type="submit" name="submit" value="Create guest entry">
 </form>
