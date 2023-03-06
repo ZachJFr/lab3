@@ -9,7 +9,7 @@
         <div style="color: white;" class="main">
             <?= esc($news_item['body']) ?>
         </div>
-        <p style="color: white;"><a href="/lab3/ci4/public/news/<?= style="color: white;" esc($news_item['slug'], 'url') ?>">View article</a></p>
+        <p style="color: white;"><a href="/lab3/ci4/public/news/<?= esc($news_item['slug'], 'url') ?>">View article</a></p>
 
     <?php endforeach ?>
 
