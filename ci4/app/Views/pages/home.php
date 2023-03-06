@@ -251,7 +251,7 @@ div.shape {
 
 <div class="header">
     <div id="grad1">
-        <h19 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size:3vw;" >All About Me</h19>
+        <h1 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size:3vw;" >All About Me</h1>
     </div>
 </div>
 
