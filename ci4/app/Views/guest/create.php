@@ -1,4 +1,4 @@
-<h2><?= esc($title) ?></h2>
+<h2 style="color: white;"><?= esc($title) ?></h2>
 
 <?= session()->getFlashdata('error') ?>
 <?= validation_list_errors() ?>
@@ -27,5 +27,5 @@
     <input style="color: white;" type="input" name="gender" value="<?= set_value('gender') ?>">
     <br>
 
-    <input type="submit" name="submit" value="Create guest entry" style="color: white;">
+    <input type="submit" name="submit" value="Create guest entry" >
 </form>
