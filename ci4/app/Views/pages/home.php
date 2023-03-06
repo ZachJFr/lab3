@@ -256,9 +256,10 @@ div.shape {
 
 <ul>
     <li><a href="#alreadyhome" style="font-size:20px;">Home</a></li>
-    <li><a href="https://www.youtube.com/watch?v=PjrAwC4TIPA" style="font-size:20px;">News</a></li>
+    <li><a href="http://apcwebprog.csf.ph/~zafrancia/lab3/ci4/public/news" style="font-size:20px;">News</a></li>
     <li><a href="https://www.facebook.com/zachfrancia.11/" style="font-size:20px;">Contact</a></li>
-    <li><a href="https://www.youtube.com/watch?v=CuipunzCM_U" style="font-size:20px;">About</a></li>
+    <li><a href="http://apcwebprog.csf.ph/~zafrancia/lab3/ci4/public/guest" style="font-size:20px;">Guests</a></li>
+    <li><a href="http://apcwebprog.csf.ph/~zafrancia/lab3/ci4/public/guest/create" style="font-size:20px;">Register</a></li>
   </ul>
 
 <div class="row">
