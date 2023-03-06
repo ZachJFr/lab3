@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
 <style>
 * {
@@ -250,7 +251,7 @@ div.shape {
 
 <div class="header">
     <div id="grad1">
-        <h1 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size: 90px;" >All About Me</h1>
+        <h1 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size:3vw;" >All About Me</h1>
     </div>
 </div>
 
