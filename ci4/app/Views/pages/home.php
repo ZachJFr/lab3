@@ -502,21 +502,31 @@ if ($conn->query($sql) === TRUE) {
 }
 }
 ?>
-      <h3>Validation</h3>
-        <a href="http://apcwebprog.csf.ph/~zafrancia/lab2/week9/validation_complete.php" target="_blank">
-          <button
-            style="
-              background-color: pink;
-              color: rgb(0, 0, 0);
-              border-radius: 8px;
-              height: 50px;
-              width: 200px;
-              font-size: 18px;
-              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
-                sans-serif;
-            "
-          >
-            Forms Validation
+      <h3><?= esc($title) ?></h3>
+
+<?php if (! empty($guest) && is_array($guest)): ?>
+
+    <?php foreach ($guest as $guest_item): ?>
+
+        <div class="main">
+		<br>
+		<b>
+		<table>
+		<tr>
+		<th>-----</th>
+		 <th><?= esc($guest_item['name']) ?> </th>
+         <th><?= esc($guest_item['email']) ?> </th>
+		 <th><?= esc($guest_item['comment']) ?> </th>
+		</tr>
+		</table>
+        </div>
+    <?php endforeach ?>
+
+<?php else: ?>
+    <h3>No guest</h3>
+    <p>Unable to find any guest for you.</p>
+
+<?php endif ?>
         </a>
       </a>
     </div>
