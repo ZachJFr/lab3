@@ -340,7 +340,7 @@ function myTimer() {
 
       <h2>Hometown</h2>
       <div>
-        <img style="border: 5px double black;" src="https://scontent.fmnl4-5.fna.fbcdn.net/v/t1.6435-9/56564607_10213895513008420_6411813851355938816_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeH6YKG1wDyqtFCQVfx7wEZvFsfXxHaYjdIWx9fEdpiN0pEj-7oArAbskmVU70rLcr4m3cvXMd41YXxWfTdjU54I&_nc_ohc=BbgZzsOkyXkAX_QPhJ8&_nc_ht=scontent.fmnl4-5.fna&oh=00_AfC4_vvX-YXr35O50q2VxhGqcbDA3RSO0xSPXm5V2hiOng&oe=63DF4D3A" alt="Mayon">
+        <img style="border: 5px double black;" src="http://en.wikipedia.org/wiki/Special:FilePath/Mayon_Volcano_as_of_March_2020.jpg" alt="Mayon" height="300px" width="600px">
       </div>
       <p>Albay</p>
       <p>April 8, 2019</p>
