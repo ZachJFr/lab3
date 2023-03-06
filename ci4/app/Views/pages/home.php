@@ -251,7 +251,7 @@ div.shape {
 
 <div class="header">
     <div id="grad1">
-        <h1 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size:3vw;" >All About Me</h1>
+        <h19 style="font-family: Copperplate, Copperplate, fantasy; position: absolute; margin-top: 65px; margin-left: 1250px; font-size:3vw;" >All About Me</h19>
     </div>
 </div>
 
@@ -363,7 +363,7 @@ function myTimer() {
 
     </div>
     <div class="card">
-      <h3>Old Valorant Highlights</h1>
+      <h3>Old Valorant Highlights</h3>
       <a onclick="setTimeout(myFunction, 3000);" href="https://www.youtube.com/@shcgaming4423" target="_blank">
         <button 
           style="
@@ -380,7 +380,7 @@ function myTimer() {
           Check Youtube
         </button>
       </a>
-      <h3>Socials</h1>
+      <h3>Socials</3>
         <a href="https://www.facebook.com/zachfrancia.11/" target="_blank">
           <button
             style="
